@@ -3,3 +3,4 @@ pickle-mixin
 scikit-learn
 streamlit
 streamlit-option-menu
+joblib
